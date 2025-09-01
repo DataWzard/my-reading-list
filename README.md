@@ -27,3 +27,4 @@
 
 * [x] 🤖 A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains - Max S. Bennett
 * [x] 📊 The Ascent of Information - Caleb Scharf​​​​​​​​​​​​​​​​
+* [x] 🧠 A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins
