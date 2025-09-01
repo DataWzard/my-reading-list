@@ -8,6 +8,7 @@
 * [x] 💻 Quantum Computing: The Transformative Technology of the Qubit Revolution - Brian Clegg
 * [x] 🌌 Quantum Supremacy - Michio Kaku
 * [x] 🕳️ Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime - Sean Carroll
+* [x] 🔭 Helgoland: Making Sense of the Quantum Revolution - Carlo Roveli
 
 ### 🧮 Mathematics
 
