@@ -16,6 +16,8 @@
 * [x] 📈 Infinite Powers: How Calculus Reveals the Secrets of the Universe - Steven Strogatz
 * [x] 🎯 Game Theory: Understanding the Mathematics of Life - Brian Clegg
 * [x] 📐 Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything - Jordan Ellenberg
+* [ ] 🤖 Why Machines Learn: The Elegant Math Behind Modern AI - Anil Ananthaswamy
+* [ ] 🧮 A Mind for Numbers: How to Excel at Math and Science - Barbra Oakley
 
 ### 🚀 Physics & Cosmology
 
@@ -23,6 +25,7 @@
 * [x] ⚡ The God Particle - Michio Kaku
 * [x] 🌀 Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, and the Tenth Dimension - Michio Kaku
 * [x] 🪐 The Copernicus Complex - Caleb Scharf
+* [ ] 🌌 Black Holes The Key to Understanding The Universe - Brian Cox, Jeff Foreshaw
 
 ### 🧠 Intelligence & Information
 
@@ -31,3 +34,6 @@
 * [x] 📊 The Ascent of Information - Caleb Scharf​​​​​​​​​​​​​​​​
 * [x] 🧠 A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins
 * [x] 🧫 How To Create A Mind: The Secret of Human Thought Revealed - Ray Kurzweil
+
+### 👨🏻‍💻 Engineering & Design
+* [ ] 🫖 The Design of Everday Things - Don Norman
