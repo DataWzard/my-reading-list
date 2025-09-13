@@ -25,7 +25,8 @@
 * [x] ⚡ The God Particle - Michio Kaku
 * [x] 🌀 Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, and the Tenth Dimension - Michio Kaku
 * [x] 🪐 The Copernicus Complex - Caleb Scharf
-* [ ] 🌌 Black Holes The Key to Understanding The Universe - Brian Cox, Jeff Foreshaw
+* [ ] 🌌 Black Holes The Key to Understanding The Universe - Brian Cox & Jeff Foreshaw
+* [ ] 🐈 Why does E=mc<sup>2</sup>? - Brian Cox & Jeff Foreshaw
 
 ### 🧠 Intelligence & Information
 
