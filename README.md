@@ -9,6 +9,7 @@
 * [x] 🌌 Quantum Supremacy - Michio Kaku
 * [x] 🕳️ Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime - Sean Carroll
 * [x] 🔭 Helgoland: Making Sense of the Quantum Revolution - Carlo Roveli
+* [x] The Little Book of String Theory - Steven S. Gubser
 
 ### 🧮 Mathematics
 
@@ -19,6 +20,7 @@
 * [ ] 🤖 Why Machines Learn: The Elegant Math Behind Modern AI - Anil Ananthaswamy
 * [ ] 🧮 A Mind for Numbers: How to Excel at Math and Science - Barbra Oakley
 * [ ] ♾️ Math Without Numbers - Milo Beckman
+* [ ] 🔗 A Combinatorial Introduction to Topology - Michael Henle
 
 ### 🚀 Physics & Cosmology
 
@@ -26,6 +28,7 @@
 * [x] ⚡ The God Particle - Michio Kaku
 * [x] 🌀 Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, and the Tenth Dimension - Michio Kaku
 * [x] 🪐 The Copernicus Complex - Caleb Scharf
+* [ ] ✨ The Little Book of Black Holes - Steven S. Gubser
 * [ ] 🌌 Black Holes The Key to Understanding The Universe - Brian Cox & Jeff Foreshaw
 * [ ] 🐈 Why does E=mc<sup>2</sup>? (and why should we care?) - Brian Cox & Jeff Foreshaw
 
