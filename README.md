@@ -18,6 +18,7 @@
 * [x] 📐 Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything - Jordan Ellenberg
 * [ ] 🤖 Why Machines Learn: The Elegant Math Behind Modern AI - Anil Ananthaswamy
 * [ ] 🧮 A Mind for Numbers: How to Excel at Math and Science - Barbra Oakley
+* [ ] ♾️ Math Without Numbers - Milo Beckman
 
 ### 🚀 Physics & Cosmology
 
