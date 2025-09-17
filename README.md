@@ -17,9 +17,9 @@
 * [x] 📈 Infinite Powers: How Calculus Reveals the Secrets of the Universe - Steven Strogatz
 * [x] 🎯 Game Theory: Understanding the Mathematics of Life - Brian Clegg
 * [x] 📐 Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything - Jordan Ellenberg
-* [ ] 🤖 Why Machines Learn: The Elegant Math Behind Modern AI - Anil Ananthaswamy
+* [x] 🤖 Why Machines Learn: The Elegant Math Behind Modern AI - Anil Ananthaswamy
 * [ ] 🧮 A Mind for Numbers: How to Excel at Math and Science - Barbra Oakley
-* [ ] ♾️ Math Without Numbers - Milo Beckman
+* [x] ♾️ Math Without Numbers - Milo Beckman
 * [ ] 🔗 A Combinatorial Introduction to Topology - Michael Henle
 
 ### 🚀 Physics & Cosmology
@@ -31,6 +31,8 @@
 * [ ] ✨ The Little Book of Black Holes - Steven S. Gubser
 * [ ] 🌌 Black Holes The Key to Understanding The Universe - Brian Cox & Jeff Foreshaw
 * [ ] 🐈 Why does E=mc<sup>2</sup>? (and why should we care?) - Brian Cox & Jeff Foreshaw
+* [ ] <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/2f390c7c-a10c-430d-8a73-b6eef6f363b3" /> Gravity's Engines: How Bubble Blowing Balck Holes Rule Galaxaies, Stars, and Life in the Cosmos - Caleb Scharf
+
 
 ### 🧠 Intelligence & Information
 
