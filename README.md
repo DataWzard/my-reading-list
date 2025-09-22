@@ -31,7 +31,7 @@
 * [ ] ✨ The Little Book of Black Holes - Steven S. Gubser
 * [ ] 🌌 Black Holes The Key to Understanding The Universe - Brian Cox & Jeff Foreshaw
 * [ ] 🐈 Why does E=mc<sup>2</sup>? (and why should we care?) - Brian Cox & Jeff Foreshaw
-* [ ] <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/2f390c7c-a10c-430d-8a73-b6eef6f363b3" /> Gravity's Engines: How Bubble Blowing Balck Holes Rule Galaxaies, Stars, and Life in the Cosmos - Caleb Scharf
+* [x] <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/2f390c7c-a10c-430d-8a73-b6eef6f363b3" /> Gravity's Engines: How Bubble Blowing Balck Holes Rule Galaxaies, Stars, and Life in the Cosmos - Caleb Scharf
 
 
 ### 🧠 Intelligence & Information
