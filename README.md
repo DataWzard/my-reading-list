@@ -44,3 +44,7 @@
 
 ### 👨🏻‍💻 Engineering & Design
 * [ ] 🫖 The Design of Everday Things - Don Norman
+
+### 📚 Memoir 
+* [ ] 🧑🏻‍🏫 Surely You're Joking Mr. Feynman! - Richard P. Feynman
+* [ ] 📝 Stephen King – On Writing - Stephen King
