@@ -21,6 +21,8 @@
 * [ ] 🧮 A Mind for Numbers: How to Excel at Math and Science - Barbra Oakley
 * [x] ♾️ Math Without Numbers - Milo Beckman
 * [ ] 🔗 A Combinatorial Introduction to Topology - Michael Henle
+* [x] 🧩 The Model Thinker: What You Need to Know to Make Data Work for You - Scott E. Page
+* [x] 🔢 Mathematica: A Secret World of Intuition and Curiosity - David Bessis
 
 ### 🚀 Physics & Cosmology
 
