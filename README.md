@@ -24,6 +24,7 @@
 * [x] 🧩 The Model Thinker: What You Need to Know to Make Data Work for You - Scott E. Page
 * [x] 🔢 Mathematica: A Secret World of Intuition and Curiosity - David Bessis
 * [x] <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/d068ec78-cdac-45b8-a5ea-2446e2da48ac" /> Thinking Better: The Art of the Shortcut in Math and Life - Marcus Du Sautoy
+* [ ] 🌎 Our Mathematical Universe: My Quest for the Ultimate Nature of Reality - Max Tegmark
 
 
 ### 🚀 Physics & Cosmology
