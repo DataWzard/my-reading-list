@@ -28,7 +28,7 @@
 
 
 ### 🚀 Physics & Cosmology
-* [ ] <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/497ff355-de8f-4e62-ad74-172eb3814fbc" /> Life 3.0: Being Human in the Age of Artifical Intelligence - Max Tegmark
+* [x] <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/497ff355-de8f-4e62-ad74-172eb3814fbc" /> Life 3.0: Being Human in the Age of Artifical Intelligence - Max Tegmark
 * [x] 🌠 Physics of the Impossible - Michio Kaku
 * [x] ⚡ The God Particle - Michio Kaku
 * [x] 🌀 Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, and the Tenth Dimension - Michio Kaku
