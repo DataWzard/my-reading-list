@@ -15,8 +15,9 @@
 
 * [x] ➕ The Joy of X: A Guided Tour of Math, from One to Infinity - Steven Strogatz
 * [x] 📈 Infinite Powers: How Calculus Reveals the Secrets of the Universe - Steven Strogatz
-* [x] 🎯 Game Theory: Understanding the Mathematics of Life - Brian Clegg
+* [x] <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/625839c0-7e51-45cd-9338-1dadb851c262" /> Game Theory: Understanding the Mathematics of Life - Brian Clegg
 * [x] 📐 Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything - Jordan Ellenberg
+* [x] 🎯 How Not to Be Wrong: The Power of Mathematical Thinking - Jordan Ellenberg
 * [x] 🤖 Why Machines Learn: The Elegant Math Behind Modern AI - Anil Ananthaswamy
 * [ ] 🧮 A Mind for Numbers: How to Excel at Math and Science - Barbra Oakley
 * [x] ♾️ Math Without Numbers - Milo Beckman
