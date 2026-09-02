@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="A whimsical arcane bookshelf for DataWzard's recommended reading list." />
+    <title>DataWzard's Arcane Reading List</title>
+    <link rel="preconnect" href="https://covers.openlibrary.org" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <main class="bookcase" aria-label="Scrollable reading list bookshelf">
+        <div class="library-header">
+          <div>
+            <p class="kicker">Recommended Reading List</p>
+            <h1>DataWzard's Arcane Library</h1>
+          </div>
+          <p class="intro">Scroll the bookcase and choose a spine to inspect a volume.</p>
+        </div>
+        <div id="shelves" class="shelves"></div>
+      </main>
+    </div>
+
+    <div class="book-modal" id="bookModal" role="dialog" aria-modal="true" aria-labelledby="featuredTitle" hidden>
+      <button class="modal-backdrop" id="modalBackdrop" type="button" aria-label="Close book details"></button>
+      <article class="featured-book" id="featuredBook">
+        <button class="close-button" id="closeBook" type="button" aria-label="Close book details">×</button>
+        <div class="cover-wrap">
+          <img id="featuredCover" alt="" />
+          <div class="cover-glow" aria-hidden="true"></div>
+        </div>
+        <div class="featured-copy">
+          <p class="category-pill" id="featuredCategory"></p>
+          <h2 id="featuredTitle"></h2>
+          <p class="author" id="featuredAuthor"></p>
+          <p class="comment" id="featuredComment"></p>
+          <a class="book-link" id="featuredLink" target="_blank" rel="noreferrer">Find the book</a>
+        </div>
+      </article>
+    </div>
+
+    <template id="shelfTemplate">
+      <section class="shelf-section">
+        <div class="shelf-label">
+          <h2></h2>
+          <span></span>
+        </div>
+        <div class="shelf-row"></div>
+      </section>
+    </template>
+
+    <template id="bookTemplate">
+      <button class="book-spine" type="button">
+        <span class="completion-mark" aria-hidden="true">✓</span>
+        <span class="spine-text">
+          <span class="spine-author"></span>
+          <span class="spine-title"></span>
+        </span>
+      </button>
+    </template>
+
+    <script src="books.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
