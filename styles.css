@@ -59,7 +59,7 @@ p {
 }
 
 h1 {
-  max-width: none;
+  max-width: 1200px;
   margin-bottom: 0;
   font-family: Georgia, "Times New Roman", serif;
   font-size: clamp(2rem, 3.4vw, 4rem);
