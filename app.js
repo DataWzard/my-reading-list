@@ -105,8 +105,8 @@ const createBook = (book, category, accent, index) => {
   const title = fragment.querySelector(".spine-title");
   const author = fragment.querySelector(".spine-author");
   const completionMark = fragment.querySelector(".completion-mark");
-  const height = 172 + ((book.title.length + index * 17) % 44);
-  const width = 42 + ((book.author.length + index * 11) % 26);
+  const height = 214 + ((book.title.length + index * 17) % 58);
+  const width = 56 + ((book.author.length + index * 11) % 32);
 
   button.style.setProperty("--accent", accent);
   button.style.setProperty("--spine", `url("${book.spine || book.cover}")`);

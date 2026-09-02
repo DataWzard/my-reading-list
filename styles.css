@@ -39,7 +39,7 @@ body::before {
 }
 
 .app-shell {
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .kicker,
@@ -59,12 +59,13 @@ p {
 }
 
 h1 {
-  max-width: 640px;
+  max-width: none;
   margin-bottom: 0;
   font-family: Georgia, "Times New Roman", serif;
-  font-size: clamp(2.2rem, 5vw, 4.7rem);
-  line-height: .94;
+  font-size: clamp(2rem, 3.4vw, 4rem);
+  line-height: .98;
   font-weight: 700;
+  text-wrap: balance;
 }
 
 .intro {
@@ -217,14 +218,12 @@ h1 {
 .bookcase {
   position: relative;
   min-width: 0;
-  overflow-y: auto;
-  height: 100vh;
-  padding: 34px clamp(22px, 4vw, 56px) 80px;
+  min-height: 100vh;
+  padding: clamp(20px, 2.4vw, 34px) clamp(18px, 2.8vw, 46px) 72px;
   background:
     linear-gradient(90deg, rgba(255, 255, 255, .03), transparent 20%),
     radial-gradient(circle at 85% 8%, rgba(182, 156, 255, .22), transparent 25%),
     linear-gradient(180deg, #21140f 0%, #100b0b 100%);
-  scroll-behavior: smooth;
 }
 
 .library-header {
@@ -232,12 +231,12 @@ h1 {
   z-index: 4;
   top: 0;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(240px, 420px);
+  grid-template-columns: minmax(0, 1fr) minmax(230px, 360px);
   align-items: center;
   gap: 24px;
-  min-height: 108px;
-  margin-bottom: 32px;
-  padding: 18px clamp(18px, 3vw, 32px);
+  min-height: 96px;
+  margin-bottom: 28px;
+  padding: 16px clamp(18px, 2.5vw, 28px);
   border: 1px solid rgba(211, 168, 65, .35);
   border-radius: 6px;
   background: rgba(22, 13, 11, .78);
@@ -274,7 +273,7 @@ h1 {
 .shelves {
   display: flex;
   flex-direction: column;
-  gap: 42px;
+  gap: 34px;
 }
 
 .shelf-section {
@@ -308,9 +307,9 @@ h1 {
   position: relative;
   display: flex;
   align-items: flex-end;
-  gap: 4px;
-  min-height: 244px;
-  padding: 20px 20px 34px;
+  gap: 6px;
+  min-height: 286px;
+  padding: 24px 22px 38px;
   overflow-x: auto;
   border: 1px solid rgba(255, 255, 255, .09);
   border-radius: 6px;
@@ -408,7 +407,7 @@ h1 {
   overflow: hidden;
   min-width: 0;
   font-family: Georgia, "Times New Roman", serif;
-  font-size: calc(.8rem * var(--label-scale, 1));
+  font-size: calc(.96rem * var(--label-scale, 1));
   font-weight: 800;
   line-height: 1.02;
   overflow-wrap: anywhere;
@@ -423,7 +422,7 @@ h1 {
   overflow: hidden;
   min-width: 0;
   color: #f7dfa1;
-  font-size: calc(.62rem * var(--label-scale, 1));
+  font-size: calc(.72rem * var(--label-scale, 1));
   font-weight: 900;
   line-height: 1.02;
   overflow-wrap: anywhere;
