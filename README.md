@@ -10,7 +10,6 @@
 * [x] 🕳️ Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime - Sean Carroll
 * [x] 🔭 Helgoland: Making Sense of the Quantum Revolution - Carlo Roveli
 * [x] 🪢 The Little Book of String Theory - Steven S. Gubser
-* [ ] <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/79c9ca89-3cb7-4c46-b9f2-9246c6bf23f3" /> Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime - Sean Carroll
 * [x] 🔭 The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory of Everything - Brian Greene
 
 
