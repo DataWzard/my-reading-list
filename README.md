@@ -1,21 +1,58 @@
-# My Recommended Reading List
 
-This repository is now a GitHub Pages-ready static bookshelf. The site loads the reading list as a whimsical arcane bookcase: each book appears as a spine on its category shelf, completed books have a checkmark plaque, and selecting a book brings its cover, link, and note into the reading light.
 
-## Run Locally
+## 📚 My Recommended Reading List
 
-Open `index.html` directly, or serve the folder with any static server:
+### ⚛️ Quantum Physics & Computing
 
-```powershell
-python -m http.server 8000
-```
+* [x] 🔬 Quantum: A Guide for the Perplexed - Jim Al-Khalili
+* [x] 💻 Quantum Computing: The Transformative Technology of the Qubit Revolution - Brian Clegg
+* [x] 🌌 Quantum Supremacy - Michio Kaku
+* [x] 🕳️ Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime - Sean Carroll
+* [x] 🔭 Helgoland: Making Sense of the Quantum Revolution - Carlo Roveli
+* [x] 🪢 The Little Book of String Theory - Steven S. Gubser
+* [x] 🔭 The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory of Everything - Brian Greene
 
-## Update The List
 
-Edit `books.js`. Categories map to shelves, and each `book(...)` entry controls title, author, completion state, and the personal note shown in the popup.
+### 🧮 Mathematics
 
-Each generated record includes `cover` and `spine` fields. Replace `spine` with a direct image URL for a published-edition spine photo whenever you have one; the site will use that image on the shelf and keep the cover for the popup.
+* [x] ➕ The Joy of X: A Guided Tour of Math, from One to Infinity - Steven Strogatz
+* [x] 📈 Infinite Powers: How Calculus Reveals the Secrets of the Universe - Steven Strogatz
+* [x] <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/625839c0-7e51-45cd-9338-1dadb851c262" /> Game Theory: Understanding the Mathematics of Life - Brian Clegg
+* [x] 📐 Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything - Jordan Ellenberg
+* [x] 🎯 How Not to Be Wrong: The Power of Mathematical Thinking - Jordan Ellenberg
+* [x] 🤖 Why Machines Learn: The Elegant Math Behind Modern AI - Anil Ananthaswamy
+* [ ] 🧮 A Mind for Numbers: How to Excel at Math and Science - Barbra Oakley
+* [x] ♾️ Math Without Numbers - Milo Beckman
+* [ ] 🔗 A Combinatorial Introduction to Topology - Michael Henle
+* [x] 🧩 The Model Thinker: What You Need to Know to Make Data Work for You - Scott E. Page
+* [x] 🔢 Mathematica: A Secret World of Intuition and Curiosity - David Bessis
+* [x] <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/d068ec78-cdac-45b8-a5ea-2446e2da48ac" /> Thinking Better: The Art of the Shortcut in Math and Life - Marcus Du Sautoy
+* [ ] 🌎 Our Mathematical Universe: My Quest for the Ultimate Nature of Reality - Max Tegmark
 
-## Publish On GitHub Pages
 
-In GitHub, open the repository settings, choose **Pages**, then publish from the `main` branch root.
+### 🚀 Physics & Cosmology
+* [x] <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/497ff355-de8f-4e62-ad74-172eb3814fbc" /> Life 3.0: Being Human in the Age of Artifical Intelligence - Max Tegmark
+* [x] 🌠 Physics of the Impossible - Michio Kaku
+* [x] ⚡ The God Particle - Michio Kaku
+* [x] 🌀 Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, and the Tenth Dimension - Michio Kaku
+* [x] 🪐 The Copernicus Complex - Caleb Scharf
+* [ ] ✨ The Little Book of Black Holes - Steven S. Gubser
+* [ ] 🌌 Black Holes The Key to Understanding The Universe - Brian Cox & Jeff Foreshaw
+* [ ] 🐈 Why does E=mc<sup>2</sup>? (and why should we care?) - Brian Cox & Jeff Foreshaw
+* [x] <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/2f390c7c-a10c-430d-8a73-b6eef6f363b3" /> Gravity's Engines: How Bubble Blowing Balck Holes Rule Galaxaies, Stars, and Life in the Cosmos - Caleb Scharf
+
+
+### 🧠 Intelligence & Information
+
+* [x] 👨🏻‍💻 Age of Invisible Machines: A Practical Guide for Creating A Hyperautomated Ecosystem of Intelligent Digial Workers - Robb Wilson
+* [x] 🤖 A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains - Max S. Bennett
+* [x] 📊 The Ascent of Information - Caleb Scharf​​​​​​​​​​​​​​​​
+* [x] 🧠 A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins
+* [x] 🧫 How To Create A Mind: The Secret of Human Thought Revealed - Ray Kurzweil
+
+### 👨🏻‍💻 Engineering & Design
+* [ ] 🫖 The Design of Everday Things - Don Norman
+
+### 📚 Memoir 
+* [ ] 🧑🏻‍🏫 Surely You're Joking Mr. Feynman! - Richard P. Feynman
+* [ ] 📝 Stephen King – On Writing - Stephen King
