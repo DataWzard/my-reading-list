@@ -10,6 +10,7 @@ const featuredTitle = document.querySelector("#featuredTitle");
 const featuredAuthor = document.querySelector("#featuredAuthor");
 const featuredComment = document.querySelector("#featuredComment");
 const featuredLink = document.querySelector("#featuredLink");
+const headerIntro = document.querySelector(".library-header .intro");
 let activeBookButton = null;
 
 const fallbackCover = (title, author, accent) => {
@@ -51,6 +52,18 @@ const escapeSvg = (text) =>
   text.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;");
 
 const spineTitleFor = (title) => title.split(":")[0].trim();
+
+const fitHeaderIntro = () => {
+  if (!headerIntro) return;
+
+  let scale = 1;
+  headerIntro.style.setProperty("--intro-scale", scale);
+
+  while (scale > 0.56 && headerIntro.scrollWidth > headerIntro.clientWidth) {
+    scale -= 0.04;
+    headerIntro.style.setProperty("--intro-scale", scale.toFixed(2));
+  }
+};
 
 const fitSpineLabel = (button) => {
   const label = button.querySelector(".spine-text");
@@ -143,10 +156,12 @@ activeBookButton = firstButton;
 firstButton?.classList.add("is-selected");
 
 requestAnimationFrame(() => {
+  fitHeaderIntro();
   document.querySelectorAll(".book-spine").forEach(fitSpineLabel);
 });
 
 window.addEventListener("resize", () => {
+  fitHeaderIntro();
   document.querySelectorAll(".book-spine").forEach(fitSpineLabel);
 });
 

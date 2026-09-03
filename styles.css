@@ -52,6 +52,10 @@ body::before {
   text-transform: uppercase;
 }
 
+.library-header .kicker {
+  padding-left: 24px;
+}
+
 h1,
 h2,
 p {
@@ -231,7 +235,7 @@ h1 {
   z-index: 4;
   top: 0;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(230px, 360px);
+  grid-template-columns: minmax(0, 1fr) max-content;
   align-items: center;
   gap: 24px;
   min-height: 96px;
@@ -266,8 +270,11 @@ h1 {
 
 .library-header .intro {
   margin: 0;
+  max-width: none;
   justify-self: end;
+  font-size: calc(1rem * var(--intro-scale, 1));
   text-align: right;
+  white-space: nowrap;
 }
 
 .shelves {
@@ -375,8 +382,9 @@ h1 {
   z-index: 2;
   filter: brightness(1.13) saturate(1.12);
   transform: translateY(-12px);
-  outline: 2px solid color-mix(in srgb, var(--accent), #fff 30%);
+  outline: 2px solid #7451cf;
   outline-offset: 3px;
+  box-shadow: inset 8px 0 10px rgba(255, 255, 255, .12), inset -9px 0 16px rgba(0, 0, 0, .42), 0 0 0 4px rgba(116, 81, 207, .18), 0 16px 24px rgba(0, 0, 0, .38);
 }
 
 .spine-text {
